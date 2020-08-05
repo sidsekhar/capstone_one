@@ -1,0 +1,380 @@
+,landing_page_id,origin,sdr_id,sr_id,business_segment,lead_type,lead_behaviour_profile,business_type,seller_city,seller_state,sdr_load,sr_load
+0,50,organic_search,7,6,computers,online_medium,"cat, wolf",reseller,belo horizonte,MG,6.0,5.0
+1,55,paid_search,7,6,bags_backpacks,online_small,eagle,manufacturer,sao paulo,SP,20.0,14.0
+2,46,social,7,6,household_utilities,online_medium,cat,manufacturer,curitiba,PR,69.0,74.0
+3,62,organic_search,7,6,toys,online_medium,cat,reseller,sao paulo,SP,18.0,17.0
+4,56,unknown,7,6,construction_tools_house_garden,online_big,cat,reseller,guarulhos,SP,29.0,26.0
+5,51,display,7,6,car_accessories,online_big,wolf,manufacturer,caxias do sul,RS,17.0,12.0
+6,13,organic_search,7,6,bags_backpacks,online_medium,wolf,manufacturer,sao paulo,SP,16.0,9.0
+7,70,unknown,7,6,baby,online_medium,cat,reseller,sao bernardo do campo,SP,68.0,73.0
+8,13,direct_traffic,7,6,construction_tools_house_garden,online_big,cat,manufacturer,cotia,SP,15.0,9.0
+9,26,organic_search,7,6,food_supplement,online_medium,cat,reseller,florianopolis,SC,15.0,16.0
+10,56,unknown,0,6,pet,online_top,cat,reseller,sao paulo,SP,11.0,15.0
+11,37,paid_search,0,6,health_beauty,online_medium,cat,manufacturer,guaruja,SP,8.0,7.0
+12,56,social,0,6,baby,online_medium,cat,manufacturer,barbacena,MG,34.0,56.0
+13,64,organic_search,0,6,audio_video_electronics,online_medium,cat,reseller,jacarei / sao paulo,SP,39.0,54.0
+14,53,organic_search,12,6,pet,online_medium,cat,reseller,belo horizonte,MG,7.0,14.0
+15,12,paid_search,12,6,home_office_furniture,offline,cat,manufacturer,guarulhos,SP,8.0,15.0
+16,56,unknown,12,6,construction_tools_house_garden,online_medium,eagle,reseller,vila velha,ES,10.0,13.0
+17,43,referral,12,6,sports_leisure,online_small,cat,manufacturer,praia grande,SP,24.0,25.0
+18,13,direct_traffic,12,6,household_utilities,industry,cat,manufacturer,rio de janeiro,RJ,12.0,14.0
+19,56,unknown,12,6,health_beauty,online_medium,cat,manufacturer,itaquaquecetuba,SP,31.0,37.0
+20,18,unknown,12,6,car_accessories,online_medium,cat,reseller,piracicaba,SP,12.0,15.0
+21,56,unknown,12,6,construction_tools_house_garden,online_small,cat,reseller,londrina,PR,11.0,12.0
+22,56,organic_search,12,6,household_utilities,online_medium,cat,manufacturer,diadema,SP,12.0,15.0
+23,56,unknown,8,6,food_drink,offline,cat,reseller,osasco,SP,12.0,16.0
+24,13,organic_search,8,6,construction_tools_house_garden,online_big,cat,manufacturer,sao roque,SP,10.0,12.0
+25,26,paid_search,8,6,watches,offline,eagle,reseller,orleans,SC,14.0,19.0
+26,13,organic_search,8,6,audio_video_electronics,online_medium,cat,reseller,santo andre,SP,11.0,14.0
+27,14,paid_search,8,6,car_accessories,online_medium,eagle,reseller,uberlandia,MG,17.0,21.0
+28,13,organic_search,8,6,home_decor,online_medium,eagle,manufacturer,jundiai,SP,16.0,18.0
+29,49,paid_search,8,6,household_utilities,online_medium,cat,manufacturer,santa rita do sapucai,MG,7.0,15.0
+30,56,unknown,8,6,home_decor,offline,cat,reseller,ibitinga,SP,16.0,19.0
+31,17,direct_traffic,8,6,bags_backpacks,online_medium,cat,manufacturer,jaragua,GO,13.0,20.0
+32,56,organic_search,8,6,toys,online_medium,eagle,reseller,duque de caxias,RJ,9.0,14.0
+33,56,unknown,10,6,construction_tools_house_garden,online_medium,eagle,reseller,sao paulo,SP,10.0,13.0
+34,56,organic_search,10,6,audio_video_electronics,industry,cat,manufacturer,guarulhos,SP,19.0,20.0
+35,59,social,10,6,phone_mobile,industry,eagle,reseller,brasilia,DF,16.0,20.0
+36,56,unknown,10,6,toys,online_medium,cat,reseller,jacarei,SP,8.0,10.0
+37,26,paid_search,10,6,health_beauty,online_big,eagle,reseller,sao paulo,SP,12.0,13.0
+38,46,social,10,6,health_beauty,offline,wolf,reseller,itaporanga,SP,11.0,25.0
+39,56,organic_search,10,6,car_accessories,online_medium,cat,reseller,sao paulo,SP,17.0,17.0
+40,62,paid_search,10,6,computers,online_small,cat,reseller,sao paulo,SP,13.0,15.0
+41,28,direct_traffic,11,6,health_beauty,online_medium,cat,reseller,ribeirao preto,SP,13.0,16.0
+42,46,social,11,6,stationery,online_medium,cat,reseller,marilia,SP,11.0,15.0
+43,57,organic_search,11,6,construction_tools_house_garden,industry,eagle,reseller,pompeia,SP,11.0,16.0
+44,69,paid_search,11,6,gifts,online_medium,cat,reseller,porto ferreira,SP,27.0,28.0
+45,13,unknown,14,6,food_drink,industry,cat,reseller,sao paulo,SP,5.0,15.0
+46,56,unknown,14,6,household_utilities,online_big,cat,manufacturer,ribeirao preto,SP,13.0,16.0
+47,62,paid_search,14,6,home_decor,online_medium,cat,reseller,pedreira,SP,15.0,22.0
+48,73,paid_search,14,6,household_utilities,industry,cat,manufacturer,araquari,SC,9.0,15.0
+49,26,paid_search,14,6,health_beauty,online_small,cat,manufacturer,jau,SP,12.0,20.0
+50,46,social,14,6,construction_tools_house_garden,online_beginner,cat,reseller,maua,SP,10.0,12.0
+51,56,unknown,14,6,music_instruments,online_medium,cat,reseller,sao paulo,SP,15.0,22.0
+52,13,organic_search,14,6,health_beauty,online_small,cat,reseller,sao paulo,SP,11.0,16.0
+53,1,paid_search,14,6,stationery,industry,cat,manufacturer,diadema,SP,11.0,14.0
+54,46,social,14,6,toys,online_small,cat,reseller,sao paulo,SP,21.0,26.0
+55,56,unknown,14,6,handcrafted,offline,cat,reseller,sao paulo,SP,14.0,52.0
+56,56,unknown,5,6,baby,online_big,eagle,reseller,indaiatuba,SP,7.0,12.0
+57,56,organic_search,5,6,computers,172,cat,reseller,garca,SP,7.0,13.0
+58,31,social,5,6,health_beauty,online_medium,cat,reseller,sao paulo,SP,12.0,20.0
+59,71,paid_search,1,6,health_beauty,online_medium,cat,reseller,rio de janeiro,RJ,9.0,15.0
+60,13,organic_search,13,6,health_beauty,online_top,cat,reseller,sao paulo,SP,6.0,7.0
+61,72,paid_search,13,6,party,offline,cat,manufacturer,santo andre,SP,10.0,6.0
+62,13,organic_search,13,6,construction_tools_house_garden,online_big,cat,reseller,araraquara,SP,11.0,7.0
+63,56,unknown,13,6,household_utilities,online_medium,cat,reseller,itapeva,SP,11.0,7.0
+64,43,referral,13,6,computers,online_big,cat,reseller,anapolis,GO,10.0,6.0
+65,62,direct_traffic,15,6,small_appliances,online_medium,cat,reseller,franco da rocha,SP,3.0,6.0
+66,46,social,17,6,pet,online_small,cat,reseller,rio de janeiro,RJ,13.0,25.0
+67,13,unknown,17,6,audio_video_electronics,online_medium,cat,reseller,sao paulo,SP,12.0,20.0
+68,8,direct_traffic,17,6,home_decor,online_small,cat,reseller,pocos de caldas,MG,9.0,21.0
+69,56,unknown,4,6,health_beauty,offline,cat,manufacturer,canoas,RS,4.0,12.0
+70,56,unknown,4,6,bed_bath_table,online_big,cat,reseller,rio de janeiro,RJ,4.0,7.0
+71,69,referral,4,6,health_beauty,online_big,cat,reseller,niteroi,RJ,2.0,4.0
+72,26,paid_search,4,6,pet,industry,eagle,manufacturer,maringa,PR,2.0,6.0
+73,19,paid_search,4,6,car_accessories,online_big,cat,reseller,sao paulo,SP,7.0,16.0
+74,26,paid_search,9,6,audio_video_electronics,online_big,cat,reseller,campinas,SP,1.0,47.0
+75,49,unknown,7,15,home_appliances,industry,wolf,manufacturer,santos,SP,69.0,40.0
+76,17,organic_search,7,15,household_utilities,online_medium,wolf,reseller,sao joao de meriti,RJ,19.0,5.0
+77,35,paid_search,7,15,books,online_medium,wolf,reseller,sao paulo,SP,14.0,11.0
+78,56,unknown,7,15,computers,online_medium,wolf,reseller,varzea paulista,SP,22.0,8.0
+79,13,organic_search,7,15,health_beauty,online_big,cat,reseller,sp / sp,SP,15.0,10.0
+80,45,paid_search,7,15,phone_mobile,online_medium,cat,reseller,atibaia,SP,15.0,11.0
+81,46,social,7,15,food_drink,online_small,cat,reseller,porto alegre,RS,30.0,15.0
+82,26,paid_search,7,15,household_utilities,online_medium,cat,reseller,viana,ES,15.0,11.0
+83,26,paid_search,7,15,computers,industry,cat,reseller,santo andre,SP,21.0,11.0
+84,31,unknown,7,15,sports_leisure,online_medium,wolf,reseller,sao jose do rio preto,SP,15.0,7.0
+85,56,unknown,0,15,toys,online_beginner,cat,reseller,itu,SP,10.0,6.0
+86,29,direct_traffic,0,15,toys,online_small,cat,reseller,uberlandia,MG,9.0,8.0
+87,26,paid_search,0,15,bed_bath_table,online_medium,cat,manufacturer,muriae,MG,12.0,11.0
+88,26,paid_search,0,15,watches,online_medium,cat,reseller,guarulhos,SP,9.0,7.0
+89,69,organic_search,12,15,household_utilities,online_big,cat,reseller,sao paulo,SP,8.0,6.0
+90,13,referral,12,15,health_beauty,offline,eagle,reseller,sao joao del rei,MG,11.0,7.0
+91,13,organic_search,12,15,sports_leisure,online_medium,cat,reseller,recife,PE,15.0,11.0
+92,56,unknown,8,15,car_accessories,online_medium,cat,reseller,jaragua do sul,SC,30.0,39.0
+93,56,organic_search,8,15,baby,online_big,cat,reseller,tabatinga,SP,23.0,17.0
+94,13,organic_search,8,15,pet,industry,cat,reseller,curitiba,PR,24.0,17.0
+95,62,organic_search,8,15,household_utilities,industry,eagle,reseller,pinhalao,PR,8.0,6.0
+96,56,unknown,10,15,small_appliances,online_big,eagle,reseller,maringa,PR,16.0,11.0
+97,13,organic_search,10,15,pet,online_big,eagle,reseller,mogi guacu,SP,16.0,12.0
+98,55,paid_search,14,15,construction_tools_house_garden,online_big,cat,reseller,extrema,MG,5.0,6.0
+99,62,paid_search,14,15,computers,online_beginner,cat,reseller,maringa,PR,22.0,36.0
+100,13,paid_search,14,15,home_decor,online_big,cat,reseller,cascavel,PR,9.0,9.0
+101,56,unknown,14,15,bed_bath_table,industry,cat,manufacturer,ibitinga,SP,9.0,9.0
+102,56,unknown,14,15,household_utilities,online_medium,cat,reseller,caxias do sul,RS,11.0,10.0
+103,13,organic_search,14,15,health_beauty,online_beginner,cat,reseller,sao paulo,SP,12.0,10.0
+104,3,paid_search,14,15,food_supplement,online_small,cat,reseller,rio de janeiro,RJ,22.0,20.0
+105,19,paid_search,5,15,health_beauty,industry,cat,manufacturer,ribeirao preto,SP,7.0,4.0
+106,31,social,1,15,health_beauty,online_medium,cat,reseller,sao paulo,SP,12.0,17.0
+107,25,unknown,1,15,audio_video_electronics,online_medium,wolf,reseller,curitiba,PR,4.0,8.0
+108,13,organic_search,1,15,construction_tools_house_garden,online_medium,wolf,reseller,sao paulo,SP,6.0,8.0
+109,38,paid_search,1,15,handcrafted,offline,eagle,287,sao carlos,SP,5.0,9.0
+110,42,unknown,1,15,household_utilities,online_big,wolf,reseller,carapicuiba,SP,6.0,7.0
+111,13,organic_search,1,15,audio_video_electronics,online_medium,eagle,reseller,campo bom,RS,5.0,6.0
+112,54,unknown,1,15,pet,online_top,cat,manufacturer,araraquara,SP,4.0,3.0
+113,18,paid_search,13,15,car_accessories,online_medium,cat,manufacturer,indaiatuba,SP,6.0,4.0
+114,26,organic_search,15,15,construction_tools_house_garden,online_medium,cat,reseller,guarulhos,SP,3.0,2.0
+115,56,unknown,9,15,music_instruments,online_big,eagle,reseller,joao pessoa,PB,1.0,23.0
+116,49,direct_traffic,7,8,bed_bath_table,online_beginner,cat,manufacturer,ibitinga,SP,23.0,13.0
+117,57,paid_search,7,8,music_instruments,online_medium,wolf,reseller,florianopolis,SC,12.0,6.0
+118,56,organic_search,7,8,household_utilities,online_medium,cat,manufacturer,arapongas,PR,49.0,23.0
+119,46,social,7,8,audio_video_electronics,online_medium,wolf,reseller,santo andre,SP,42.0,22.0
+120,13,direct_traffic,7,8,car_accessories,online_medium,wolf,reseller,pitangueiras,SP,10.0,6.0
+121,69,organic_search,7,8,health_beauty,online_medium,wolf,reseller,rio claro,SP,12.0,3.0
+122,30,organic_search,7,8,food_drink,online_medium,wolf,reseller,sao paulo,SP,55.0,27.0
+123,58,direct_traffic,7,8,construction_tools_house_garden,online_medium,cat,reseller,brasilia,DF,15.0,7.0
+124,13,organic_search,7,8,home_decor,online_medium,cat,reseller,sao paulo,SP,18.0,10.0
+125,15,direct_traffic,7,8,household_utilities,online_medium,wolf,manufacturer,sorocaba,SP,19.0,7.0
+126,13,paid_search,7,8,household_utilities,online_medium,cat,reseller,sao paulo,SP,11.0,4.0
+127,62,paid_search,7,8,household_utilities,online_big,wolf,manufacturer,claudio,MG,21.0,7.0
+128,13,113,7,8,audio_video_electronics,online_big,cat,reseller,sete lagoas,MG,11.0,6.0
+129,56,unknown,7,8,construction_tools_house_garden,online_small,cat,reseller,curitiba,PR,12.0,6.0
+130,26,organic_search,0,8,sports_leisure,online_medium,cat,reseller,sbc,SP,10.0,4.0
+131,56,unknown,0,8,home_decor,online_medium,cat,manufacturer,sao jose do rio preto,SP,15.0,9.0
+132,13,email,0,8,pet,online_medium,wolf,reseller,avare,SP,21.0,13.0
+133,56,unknown,0,8,fashion_accessories,online_medium,cat,reseller,franca,SP,11.0,8.0
+134,13,organic_search,12,8,home_decor,online_big,cat,reseller,brusque,SC,9.0,7.0
+135,13,direct_traffic,8,8,gifts,offline,cat,reseller,americana,SP,30.0,21.0
+136,69,paid_search,10,8,audio_video_electronics,online_medium,eagle,reseller,embu das artes,SP,9.0,4.0
+137,50,organic_search,11,8,car_accessories,online_medium,cat,reseller,salto,SP,3.0,6.0
+138,13,paid_search,11,8,construction_tools_house_garden,online_big,cat,reseller,londrina,SP,3.0,6.0
+139,68,unknown,11,8,bed_bath_table,offline,eagle,reseller,lambari,MG,17.0,6.0
+140,62,organic_search,11,8,car_accessories,online_big,eagle,manufacturer,londrina,PR,6.0,7.0
+141,13,display,11,8,construction_tools_house_garden,online_medium,cat,reseller,paracambi,RJ,5.0,6.0
+142,13,paid_search,14,8,household_utilities,online_small,cat,reseller,sao bernardo do campo,SP,10.0,8.0
+143,13,unknown,14,8,computers,industry,cat,reseller,sao paulo,SP,11.0,11.0
+144,56,unknown,14,8,household_utilities,online_big,cat,reseller,bento goncalves,RS,12.0,12.0
+145,48,paid_search,5,8,bags_backpacks,offline,wolf,reseller,guarulhos,SP,13.0,11.0
+146,66,paid_search,1,8,computers,online_beginner,cat,reseller,sao caetano do sul,SP,3.0,4.0
+147,7,organic_search,13,8,home_appliances,online_big,cat,reseller,novo hamburgo,RS,14.0,15.0
+148,6,paid_search,15,8,home_decor,online_medium,eagle,reseller,florianopolis,SC,6.0,7.0
+149,67,organic_search,17,8,health_beauty,industry,cat,manufacturer,sao roque,SP,12.0,8.0
+150,56,unknown,2,8,sports_leisure,online_medium,eagle,reseller,sao paulo,SP,3.0,5.0
+151,11,organic_search,2,8,household_utilities,online_medium,cat,reseller,curitiba,PR,6.0,7.0
+152,56,unknown,7,9,home_decor,online_big,shark,manufacturer,sao paulo,SP,20.0,13.0
+153,56,organic_search,7,9,home_decor,online_big,wolf,manufacturer,uberlandia,MG,19.0,11.0
+154,65,113,7,9,construction_tools_house_garden,online_medium,cat,manufacturer,atibaia,SP,16.0,5.0
+155,17,social,0,9,audio_video_electronics,online_big,cat,reseller,umuarama,PR,11.0,6.0
+156,18,organic_search,0,9,car_accessories,industry,eagle,reseller,juiz de fora,MG,5.0,8.0
+157,13,paid_search,0,9,bed_bath_table,online_medium,cat,reseller,ibitinga,SP,17.0,7.0
+158,4,paid_search,0,9,audio_video_electronics,online_medium,cat,reseller,nova friburgo,RJ,34.0,26.0
+159,56,organic_search,12,9,gifts,online_medium,cat,reseller,mogi guacu,SP,24.0,25.0
+160,56,unknown,12,9,home_office_furniture,industry,cat,manufacturer,ribeirao pires,SP,16.0,11.0
+161,18,organic_search,12,9,home_decor,online_medium,eagle,reseller,itapecerica da serra,SP,7.0,11.0
+162,60,email,12,9,household_utilities,online_medium,cat,reseller,vila velha,ES,9.0,10.0
+163,24,unknown,8,9,car_accessories,online_big,cat,reseller,sao jose dos pinhais,PR,19.0,7.0
+164,62,organic_search,10,9,household_utilities,online_big,cat,reseller,sao carlos,SP,17.0,11.0
+165,13,organic_search,11,9,sports_leisure,online_medium,cat,reseller,sao paulo,SP,7.0,14.0
+166,33,paid_search,11,9,construction_tools_house_garden,offline,shark,reseller,sao paulo,SP,8.0,8.0
+167,13,organic_search,11,9,food_supplement,online_medium,cat,reseller,ribeirao preto,SP,15.0,6.0
+168,50,organic_search,11,9,construction_tools_house_garden,online_big,cat,reseller,sao joao da boa vista,SP,8.0,7.0
+169,26,paid_search,11,9,construction_tools_house_garden,online_big,cat,manufacturer,limeira,SP,28.0,13.0
+170,55,paid_search,11,9,bed_bath_table,offline,cat,reseller,itirapina,SP,9.0,22.0
+171,13,direct_traffic,5,9,pet,online_big,cat,manufacturer,rio de janeiro,RJ,7.0,10.0
+172,19,paid_search,5,9,bags_backpacks,industry,wolf,manufacturer,ipira,BA,10.0,8.0
+173,56,direct_traffic,5,9,audio_video_electronics,online_medium,cat,reseller,sao paulo,SP,7.0,11.0
+174,31,social,5,9,audio_video_electronics,online_big,cat,reseller,sao paulo,SP,7.0,10.0
+175,62,organic_search,5,9,household_utilities,online_medium,cat,reseller,sao paulo,SP,7.0,10.0
+176,56,unknown,1,9,household_utilities,online_medium,cat,reseller,ribeirao preto / sao paulo,SP,2.0,10.0
+177,13,organic_search,1,9,fashion_accessories,online_medium,cat,manufacturer,curitiba,PR,6.0,8.0
+178,13,email,13,9,health_beauty,online_medium,cat,reseller,sao paulo,SP,6.0,8.0
+179,23,paid_search,13,9,construction_tools_house_garden,online_big,wolf,reseller,angra dos reis,RJ,14.0,31.0
+180,26,paid_search,13,9,health_beauty,industry,wolf,manufacturer,sao paulo,SP,14.0,31.0
+181,13,organic_search,15,9,audio_video_electronics,online_small,cat,reseller,belo horizonte,MG,7.0,13.0
+182,56,unknown,15,9,household_utilities,offline,cat,reseller,praia grande,SP,10.0,10.0
+183,62,organic_search,15,9,stationery,online_medium,wolf,reseller,sao paulo - sp,SP,10.0,23.0
+184,26,paid_search,7,17,household_utilities,industry,shark,reseller,curitiba,PR,24.0,6.0
+185,13,organic_search,7,17,toys,online_medium,cat,reseller,carazinho,RS,15.0,3.0
+186,56,unknown,7,17,computers,online_medium,wolf,reseller,sao paulo,SP,24.0,11.0
+187,13,organic_search,7,17,home_decor,online_beginner,cat,manufacturer,guarulhos,SP,10.0,5.0
+188,52,113,7,17,audio_video_electronics,online_big,cat,reseller,maringa,PR,12.0,5.0
+189,31,social,0,17,pet,online_medium,cat,reseller,sorocaba,SP,10.0,11.0
+190,32,direct_traffic,0,17,health_beauty,online_big,cat,manufacturer,fortaleza,CE,10.0,3.0
+191,26,paid_search,0,17,home_decor,online_medium,cat,manufacturer,sabara,MG,11.0,5.0
+192,31,social,0,17,stationery,online_medium,cat,manufacturer,porto alegre,RS,15.0,10.0
+193,56,unknown,0,17,home_decor,online_top,cat,manufacturer,gaspar,SC,11.0,4.0
+194,26,paid_search,12,17,sports_leisure,online_medium,cat,manufacturer,estancia velha,RS,11.0,6.0
+195,56,unknown,8,17,audio_video_electronics,online_big,cat,reseller,campo bom,RS,2.0,3.0
+196,13,organic_search,10,17,home_decor,online_medium,cat,manufacturer,rio de janeiro,RJ,6.0,2.0
+197,31,social,10,17,home_decor,online_big,cat,manufacturer,ivoti,RS,20.0,12.0
+198,56,unknown,10,17,small_appliances,online_big,cat,reseller,sao paulo,SP,20.0,14.0
+199,13,organic_search,10,17,audio_video_electronics,online_medium,cat,reseller,guaratuba,PR,13.0,8.0
+200,26,paid_search,10,17,health_beauty,industry,cat,manufacturer,santa maria,RS,10.0,6.0
+201,13,paid_search,10,17,stationery,online_medium,cat,manufacturer,sao paulo,SP,16.0,10.0
+202,56,unknown,10,17,car_accessories,online_medium,eagle,reseller,sao paulo,SP,27.0,25.0
+203,26,paid_search,10,17,home_decor,online_medium,cat,manufacturer,toledo,PR,14.0,6.0
+204,26,organic_search,11,17,bags_backpacks,online_medium,eagle,manufacturer,porto alegre,RS,21.0,6.0
+205,13,organic_search,11,17,food_drink,online_medium,cat,reseller,praia grande,SP,18.0,4.0
+206,13,referral,11,17,construction_tools_house_garden,offline,cat,reseller,jaguariuna,SP,8.0,1.0
+207,18,unknown,5,17,car_accessories,online_big,cat,reseller,tres coracoes,MG,5.0,1.0
+208,2,organic_search,1,17,audio_video_electronics,industry,wolf,reseller,sao paulo,SP,3.0,3.0
+209,31,social,1,17,pet,online_medium,shark,reseller,sao paulo,SP,5.0,2.0
+210,56,unknown,17,17,health_beauty,online_medium,cat,reseller,sao paulo,SP,10.0,5.0
+211,56,organic_search,17,17,home_decor,online_big,cat,reseller,santo andre,SP,12.0,7.0
+212,56,unknown,17,17,household_utilities,online_small,cat,reseller,sao paulo,SP,10.0,3.0
+213,13,referral,4,17,car_accessories,online_big,cat,reseller,sao caetano do sul,SP,11.0,13.0
+214,62,organic_search,7,4,health_beauty,online_big,cat,reseller,carapicuiba,SP,36.0,10.0
+215,69,organic_search,7,4,air_conditioning,online_medium,wolf,reseller,ribeirao preto,SP,21.0,8.0
+216,22,paid_search,7,4,small_appliances,online_medium,cat,reseller,sao paulo,SP,11.0,3.0
+217,13,organic_search,7,4,household_utilities,online_big,shark,reseller,rio de janeiro,RJ,18.0,4.0
+218,13,organic_search,0,4,home_decor,online_big,cat,reseller,sao paulo,SP,9.0,5.0
+219,37,paid_search,0,4,home_decor,online_big,cat,reseller,ribeirao preto,SP,43.0,25.0
+220,17,organic_search,0,4,audio_video_electronics,online_big,cat,manufacturer,varzea alegre,CE,16.0,10.0
+221,62,direct_traffic,0,4,pet,172,cat,reseller,itu,SP,11.0,7.0
+222,12,email,0,4,health_beauty,online_medium,cat,reseller,sao paulo,SP,27.0,19.0
+223,13,organic_search,0,4,bags_backpacks,online_medium,cat,reseller,rio de janeiro,RJ,10.0,6.0
+224,50,organic_search,0,4,sports_leisure,online_big,cat,reseller,sao paulo,SP,18.0,11.0
+225,56,unknown,12,4,home_decor,online_medium,wolf,reseller,osasco,SP,8.0,6.0
+227,26,paid_search,8,4,health_beauty,offline,cat,reseller,rio de janeiro,RJ,11.0,8.0
+228,40,other,8,4,home_decor,online_medium,cat,reseller,campinas,SP,9.0,5.0
+229,56,organic_search,8,4,car_accessories,industry,cat,reseller,formosa,GO,13.0,9.0
+230,7,paid_search,10,4,health_beauty,online_small,cat,reseller,rio de janeiro,RJ,8.0,3.0
+231,56,unknown,10,4,stationery,online_medium,cat,reseller,brasilia,DF,9.0,4.0
+232,13,direct_traffic,11,4,home_decor,online_small,cat,reseller,itajai,SC,8.0,7.0
+233,62,social,11,4,household_utilities,online_medium,wolf,reseller,joinville,SC,6.0,6.0
+234,13,paid_search,11,4,pet,online_medium,cat,reseller,londrina,PR,13.0,9.0
+235,0,paid_search,11,4,car_accessories,online_big,eagle,reseller,sao bernardo do campo,SP,13.0,8.0
+236,26,paid_search,11,4,health_beauty,offline,eagle,reseller,rio de janeiro,RJ,7.0,4.0
+237,16,direct_traffic,1,4,car_accessories,online_big,cat,reseller,joinville,SC,5.0,4.0
+238,56,unknown,13,4,games_consoles,online_medium,"eagle, cat",reseller,guarulhos,SP,14.0,6.0
+239,26,organic_search,17,4,health_beauty,online_medium,cat,manufacturer,belo horizonte,MG,4.0,4.0
+240,50,organic_search,17,4,car_accessories,online_beginner,cat,reseller,lauro de freitas,BA,14.0,10.0
+241,13,organic_search,2,4,books,online_big,cat,reseller,sao pedro da aldeia,RJ,3.0,2.0
+242,46,social,16,4,baby,online_small,cat,reseller,sao jose do rio preto,SP,1.0,4.0
+243,56,unknown,7,10,construction_tools_house_garden,online_medium,cat,reseller,sao paulo,SP,14.0,8.0
+244,56,unknown,7,10,health_beauty,online_big,cat,reseller,sao paulo,SP,14.0,7.0
+245,13,organic_search,0,10,home_decor,industry,cat,manufacturer,guarulhos,SP,13.0,5.0
+246,20,paid_search,0,10,household_utilities,online_medium,cat,reseller,garulhos,SP,13.0,6.0
+247,64,unknown,0,10,health_beauty,online_medium,cat,reseller,nova iguacu,RJ,13.0,6.0
+248,13,organic_search,12,10,food_drink,online_medium,cat,manufacturer,salvador,BA,9.0,4.0
+249,56,unknown,12,10,car_accessories,online_beginner,cat,reseller,ribeirao preto,SP,8.0,4.0
+250,51,email,12,10,health_beauty,online_medium,cat,reseller,sao bernardo do campo,SP,12.0,6.0
+251,56,unknown,8,10,watches,online_big,cat,reseller,ribeirao preto,SP,16.0,12.0
+252,13,organic_search,8,10,home_decor,online_medium,cat,manufacturer,americana,SP,9.0,4.0
+253,62,paid_search,8,10,toys,online_medium,cat,reseller,sao paulo,SP,24.0,17.0
+254,26,paid_search,11,10,household_utilities,offline,eagle,reseller,sao paulo,SP,12.0,2.0
+255,56,organic_search,14,10,car_accessories,industry,cat,reseller,belo horizont,MG,7.0,3.0
+256,46,social,14,10,audio_video_electronics,online_big,cat,reseller,sao paulo,SP,12.0,13.0
+257,56,unknown,14,10,construction_tools_house_garden,industry,eagle,reseller,sao paulo,SP,8.0,4.0
+258,64,direct_traffic,1,10,health_beauty,online_beginner,cat,reseller,rio de janeiro,RJ,2.0,1.0
+259,63,paid_search,15,10,home_decor,online_medium,wolf,reseller,sao paulo,SP,4.0,1.0
+260,31,social,15,10,audio_video_electronics,online_small,eagle,reseller,toledo,PR,4.0,1.0
+261,26,organic_search,17,10,car_accessories,industry,cat,reseller,santo andre,SP,12.0,8.0
+262,62,direct_traffic,17,10,food_drink,offline,cat,reseller,joinville,SC,3.0,3.0
+263,14,paid_search,17,10,bed_bath_table,industry,cat,manufacturer,sao jose dos pinhas,PR,11.0,7.0
+264,62,referral,17,10,stationery,online_big,cat,reseller,sao paulo,SP,10.0,7.0
+265,46,social,17,10,pet,online_medium,cat,reseller,sao carlos,SP,12.0,9.0
+266,26,paid_search,7,2,audio_video_electronics,online_beginner,cat,reseller,sao paulo,SP,9.0,4.0
+267,26,organic_search,7,2,home_appliances,online_medium,cat,reseller,sao paulo,SP,15.0,2.0
+268,56,paid_search,7,2,home_decor,online_beginner,cat,reseller,sao paulo,SP,7.0,3.0
+269,64,paid_search,7,2,audio_video_electronics,online_beginner,wolf,reseller,guaira,SP,61.0,19.0
+270,56,unknown,7,2,audio_video_electronics,online_medium,cat,reseller,osasco,SP,16.0,4.0
+271,43,organic_search,0,2,car_accessories,online_medium,cat,reseller,campinas,SP,11.0,4.0
+272,62,direct_traffic,0,2,household_utilities,offline,cat,reseller,sao paulo,SP,10.0,2.0
+273,46,organic_search,0,2,construction_tools_house_garden,online_medium,cat,reseller,apucarana,PR,16.0,5.0
+274,13,organic_search,12,2,pet,online_small,cat,reseller,campinas,SP,20.0,9.0
+275,26,organic_search,12,2,home_decor,online_big,cat,reseller,sao paulo,SP,20.0,9.0
+276,13,direct_traffic,12,2,handcrafted,online_medium,cat,reseller,santa rosa,RS,12.0,5.0
+277,14,paid_search,12,2,home_decor,online_big,cat,reseller,sao paulo,SP,10.0,3.0
+278,62,organic_search,8,2,home_decor,online_medium,cat,manufacturer,piracicaba,SP,5.0,6.0
+279,62,organic_search,11,2,sports_leisure,online_big,eagle,reseller,sao paulo,SP,10.0,3.0
+280,62,organic_search,11,2,music_instruments,online_medium,cat,reseller,contagem,MG,20.0,7.0
+281,13,direct_traffic,1,2,household_utilities,online_medium,cat,reseller,sao paulo,SP,11.0,9.0
+282,53,paid_search,13,2,car_accessories,online_big,eagle,reseller,brusque,SC,14.0,20.0
+283,26,paid_search,15,2,home_decor,online_medium,cat,reseller,ibitinga,SP,6.0,7.0
+284,13,paid_search,15,2,food_supplement,online_top,eagle,manufacturer,sao paulo,SP,6.0,7.0
+285,43,direct_traffic,4,2,audio_video_electronics,offline,wolf,reseller,sorocaba,SP,11.0,10.0
+286,13,organic_search,2,2,sports_leisure,online_small,cat,reseller,curitiba,PR,4.0,4.0
+287,13,paid_search,7,16,home_decor,online_medium,wolf,manufacturer,belo horizonte,MG,17.0,6.0
+288,56,unknown,7,16,bags_backpacks,online_medium,cat,reseller,rio claro,SP,9.0,3.0
+289,7,paid_search,7,16,household_utilities,online_medium,cat,manufacturer,caxias do sul,RS,23.0,9.0
+290,7,paid_search,0,16,sports_leisure,online_medium,cat,reseller,sao paulo,SP,11.0,5.0
+291,13,organic_search,0,16,household_utilities,online_top,cat,reseller,sbc/sp,SP,11.0,5.0
+292,13,unknown,0,16,bags_backpacks,online_medium,cat,reseller,atibaia,SP,10.0,3.0
+293,31,social,0,16,car_accessories,online_medium,cat,reseller,sao paulo,SP,15.0,7.0
+294,55,paid_search,8,16,health_beauty,online_medium,cat,reseller,taboao da serra,SP,14.0,1.0
+295,56,unknown,10,16,audio_video_electronics,online_medium,cat,manufacturer,sao sebastiao,SP,11.0,3.0
+296,56,paid_search,10,16,car_accessories,online_medium,cat,manufacturer,campo do meio,MG,10.0,2.0
+297,26,paid_search,5,16,car_accessories,online_big,cat,reseller,guarulhos,SP,8.0,6.0
+298,69,paid_search,5,16,home_appliances,online_medium,wolf,reseller,catanduva,SP,5.0,1.0
+299,2,unknown,1,16,health_beauty,online_medium,shark,reseller,goioere,SP,13.0,10.0
+300,13,organic_search,15,16,car_accessories,offline,cat,reseller,rio de janeiro,RJ,3.0,3.0
+301,69,organic_search,15,16,phone_mobile,offline,cat,287,resende,RJ,6.0,4.0
+302,56,organic_search,15,16,home_decor,online_beginner,cat,reseller,rio do sul,SC,3.0,2.0
+303,56,unknown,2,16,household_utilities,industry,cat,reseller,palhoca,SC,3.0,3.0
+304,43,direct_traffic,2,16,sports_leisure,online_medium,shark,reseller,joinville,SC,8.0,17.0
+305,13,direct_traffic,7,14,books,industry,wolf,reseller,sao paulo,SP,21.0,10.0
+306,26,paid_search,7,14,fashion_accessories,online_medium,eagle,reseller,conselheiro lafaiete,MG,17.0,7.0
+307,13,organic_search,7,14,audio_video_electronics,online_big,cat,reseller,rio verde,GO,15.0,6.0
+308,21,referral,7,14,phone_mobile,offline,cat,reseller,osasco,SP,16.0,3.0
+309,56,unknown,7,14,bags_backpacks,online_medium,wolf,reseller,sao paulo,SP,17.0,7.0
+310,40,organic_search,7,14,home_decor,industry,wolf,manufacturer,sao pedro,SP,47.0,14.0
+311,62,organic_search,0,14,audio_video_electronics,online_beginner,cat,reseller,cascavel,PR,8.0,6.0
+312,10,direct_traffic,8,14,home_decor,online_small,cat,manufacturer,goiania,GO,8.0,4.0
+313,44,email,8,14,small_appliances,online_medium,cat,287,sao paulo,SP,14.0,4.0
+314,13,organic_search,8,14,household_utilities,online_medium,eagle,manufacturer,bauru,SP,11.0,5.0
+315,13,organic_search,8,14,small_appliances,172,cat,reseller,guarulhos,SP,14.0,4.0
+316,62,direct_traffic,8,14,food_supplement,online_medium,cat,reseller,picarras,SC,20.0,13.0
+317,73,paid_search,11,14,pet,industry,eagle,reseller,araraquara,SP,9.0,6.0
+318,62,organic_search,11,14,bed_bath_table,online_big,cat,reseller,presidente prudente,SP,15.0,10.0
+319,26,paid_search,3,14,home_decor,online_medium,cat,manufacturer,angra dos reis rj,RJ,0.0,7.0
+320,56,unknown,7,0,household_utilities,online_small,wolf,reseller,rio negrinho,SC,22.0,3.0
+321,56,unknown,7,0,household_utilities,online_medium,cat,reseller,sao paulo,SP,41.0,8.0
+322,13,organic_search,7,0,bags_backpacks,online_beginner,cat,reseller,sao paulo,SP,35.0,8.0
+323,56,unknown,0,0,audio_video_electronics,online_medium,cat,reseller,barueri,SP,8.0,5.0
+324,56,unknown,0,0,sports_leisure,online_medium,cat,reseller,palhoca,SC,8.0,3.0
+325,73,paid_search,0,0,health_beauty,online_small,cat,reseller,brasilia,DF,39.0,11.0
+326,13,organic_search,8,0,pet,online_medium,cat,reseller,sao paulo,SP,12.0,3.0
+327,9,organic_search,11,0,audio_video_electronics,online_medium,cat,manufacturer,palhoca,SC,13.0,5.0
+328,13,paid_search,11,0,health_beauty,online_medium,shark,reseller,hortolandia,SP,8.0,4.0
+329,16,referral,1,0,food_drink,online_medium,cat,manufacturer,sao paulo,SP,7.0,2.0
+330,13,organic_search,15,0,health_beauty,online_medium,cat,reseller,sao paulo,SP,7.0,1.0
+331,46,social,17,0,fashion_accessories,industry,cat,reseller,estancia velha,RS,8.0,3.0
+332,56,unknown,4,0,computers,online_beginner,cat,reseller,sao paulo,SP,6.0,1.0
+333,26,paid_search,16,0,food_supplement,industry,cat,manufacturer,domingos martins,ES,1.0,1.0
+334,74,paid_search,0,13,household_utilities,industry,cat,manufacturer,floranopolis,SC,23.0,12.0
+335,56,paid_search,12,13,construction_tools_house_garden,industry,cat,manufacturer,sao paulo,SP,21.0,12.0
+336,13,organic_search,10,13,small_appliances,online_medium,cat,reseller,ronda alta,RS,30.0,12.0
+337,14,paid_search,10,13,health_beauty,online_big,wolf,reseller,irati,PR,29.0,7.0
+338,13,organic_search,10,13,food_supplement,online_small,cat,reseller,maringa,PR,30.0,12.0
+339,36,social,5,13,health_beauty,online_medium,cat,reseller,sando andre,SP,20.0,12.0
+340,61,social,5,13,home_decor,online_medium,eagle,manufacturer,ibitinga,SP,8.0,11.0
+341,13,organic_search,5,13,construction_tools_house_garden,online_medium,eagle,reseller,santos,SP,6.0,9.0
+342,31,social,1,13,household_utilities,online_beginner,eagle,reseller,sao bernardo do campo,SP,7.0,11.0
+343,13,direct_traffic,13,13,toys,offline,cat,reseller,sao paulo,SP,11.0,10.0
+344,19,paid_search,4,13,bed_bath_table,online_big,cat,reseller,ibitinga,SP,10.0,10.0
+345,62,direct_traffic,4,13,bags_backpacks,online_big,cat,reseller,santa barbara d oeste,SP,4.0,9.0
+346,62,organic_search,2,13,food_drink,online_small,eagle,manufacturer,monte alegre do sul,SP,5.0,9.0
+347,46,social,7,12,home_decor,online_big,cat,reseller,uruacu,GO,35.0,5.0
+348,62,organic_search,7,12,home_decor,online_medium,shark,manufacturer,florianopolis,SC,14.0,3.0
+349,69,organic_search,12,12,construction_tools_house_garden,online_medium,cat,manufacturer,arapongas,PR,20.0,10.0
+350,27,paid_search,12,12,car_accessories,online_big,cat,reseller,sao paulo,SP,12.0,3.0
+351,13,direct_traffic,12,12,home_decor,online_medium,cat,reseller,santos,SP,13.0,4.0
+352,0,paid_search,10,12,household_utilities,online_medium,eagle,manufacturer,nhandeara,SP,26.0,10.0
+353,13,paid_search,10,12,household_utilities,online_medium,eagle,reseller,sao paulo,SP,13.0,1.0
+354,62,paid_search,5,12,home_appliances,online_medium,cat,reseller,sao paulo,SP,7.0,6.0
+355,34,paid_search,5,12,books,online_big,cat,reseller,sao paulo,SP,5.0,3.0
+356,56,unknown,5,12,fashion_accessories,online_big,cat,reseller,maua,SP,5.0,5.0
+357,56,unknown,4,12,toys,industry,cat,manufacturer,sao paulo,SP,5.0,5.0
+358,26,social,2,12,home_office_furniture,online_beginner,eagle,reseller,sao jose do rio preto,SP,4.0,5.0
+359,56,organic_search,7,7,air_conditioning,online_medium,shark,reseller,sao paulo,SP,23.0,5.0
+360,1,paid_search,7,7,baby,online_beginner,cat,manufacturer,camboriu,SC,53.0,10.0
+361,39,113,7,7,bags_backpacks,offline,cat,reseller,curitiba,PR,25.0,6.0
+362,26,paid_search,0,7,bags_backpacks,online_medium,cat,reseller,contagem,MG,12.0,6.0
+363,13,organic_search,12,7,construction_tools_house_garden,online_big,cat,reseller,sao caetano do sul,SP,15.0,6.0
+364,14,paid_search,12,7,construction_tools_house_garden,online_small,cat,reseller,carapicuiba,SP,33.0,8.0
+365,26,unknown,12,7,phone_mobile,online_medium,cat,reseller,mogi das cruses,SP,28.0,7.0
+366,13,organic_search,8,7,construction_tools_house_garden,industry,cat,manufacturer,loanda,PR,5.0,9.0
+367,13,organic_search,5,7,sports_leisure,online_medium,eagle,reseller,botucatu,SP,5.0,4.0
+368,56,unknown,13,7,car_accessories,online_medium,wolf,reseller,pinhais/pr,PR,9.0,3.0
+369,47,unknown,15,7,fashion_accessories,online_beginner,cat,reseller,sao paulo,SP,4.0,2.0
+370,56,unknown,10,1,food_supplement,online_medium,cat,manufacturer,sao paulo,SP,9.0,5.0
+371,40,other,10,1,health_beauty,online_big,eagle,reseller,guarulhos,SP,23.0,5.0
+372,26,paid_search,1,1,health_beauty,online_big,wolf,reseller,morrinhos,GO,19.0,5.0
+373,13,organic_search,4,1,home_decor,industry,cat,reseller,belo horizonte,MG,5.0,4.0
+374,62,organic_search,4,1,household_utilities,offline,cat,reseller,sao paulo,SP,7.0,4.0
+375,5,unknown,4,1,health_beauty,offline,eagle,reseller,triunfo,RS,8.0,3.0
+376,41,social,5,3,home_decor,online_big,cat,reseller,sao paulo,SP,20.0,1.0
+377,27,paid_search,2,3,computers,online_medium,eagle,reseller,paraiba do sul,RJ,8.0,1.0
+378,67,paid_search,6,11,home_decor,online_medium,wolf,manufacturer,rio de janeiro,RJ,0.0,0.0
+379,56,unknown,13,5,construction_tools_house_garden,industry,cat,manufacturer,garca,SP,14.0,0.0
