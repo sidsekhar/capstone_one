@@ -1,349 +1,349 @@
 ,Coefficient
-sdr_load,0.07245883678892837
-sr_load,0.07298345370934534
-landing_page_id_0,67415859842.736206
-landing_page_id_1,67415859838.63498
-landing_page_id_2,67415859840.049835
-landing_page_id_3,67415859838.698235
-landing_page_id_4,671939465777.8762
-landing_page_id_5,595072938293.4545
-landing_page_id_6,597354703830.6115
-landing_page_id_7,67415859838.0061
-landing_page_id_8,49174264779.02259
-landing_page_id_9,1146412936626.8047
-landing_page_id_10,43654829382.348114
-landing_page_id_11,457421041623.6833
-landing_page_id_12,67415859842.581024
-landing_page_id_13,67415859840.30242
-landing_page_id_14,67415859840.914474
-landing_page_id_15,67415859838.34092
-landing_page_id_16,67415859839.78389
-landing_page_id_17,100003880122.59418
-landing_page_id_18,39515740626.4968
-landing_page_id_19,67415859841.0973
-landing_page_id_20,31892895036.782703
-landing_page_id_21,22527373456.22873
-landing_page_id_22,67415859839.07587
-landing_page_id_23,22909283750.218304
-landing_page_id_24,63867514175.00406
-landing_page_id_25,67415859842.79356
-landing_page_id_26,67415859840.30624
-landing_page_id_27,67415859841.21447
-landing_page_id_28,67415859841.06111
-landing_page_id_29,67415859838.43164
-landing_page_id_30,47581481660.44859
-landing_page_id_31,67415859837.66185
-landing_page_id_32,134382913502.42307
-landing_page_id_33,101467597340.38515
-landing_page_id_34,6408791955.307031
-landing_page_id_35,35932787429.00658
-landing_page_id_36,65392749063.95794
-landing_page_id_37,138644221376.29742
-landing_page_id_38,11282514338.48438
-landing_page_id_39,54437494984.38654
-landing_page_id_40,51341634557.067635
-landing_page_id_41,56877378109.03645
-landing_page_id_42,7266074226.92489
-landing_page_id_43,67415859841.62581
-landing_page_id_44,11282514334.567215
-landing_page_id_45,77357073651.86395
-landing_page_id_46,67415859836.82774
-landing_page_id_47,67415859837.61329
-landing_page_id_48,35460850027.37826
-landing_page_id_49,67415859835.261765
-landing_page_id_50,67415859838.82886
-landing_page_id_51,67415859846.09538
-landing_page_id_52,54437494993.74422
-landing_page_id_53,67415859841.95022
-landing_page_id_54,67415859839.662224
-landing_page_id_55,67415859837.17677
-landing_page_id_56,67415859840.31976
-landing_page_id_57,33808669746.409966
-landing_page_id_58,67415859838.48721
-landing_page_id_59,13751740057.489275
-landing_page_id_60,67415859841.97062
-landing_page_id_61,67415859838.71725
-landing_page_id_62,67415859840.48037
-landing_page_id_63,8957325741.197525
-landing_page_id_64,69045194151.3349
-landing_page_id_65,807413697.8951452
-landing_page_id_66,67415859838.915085
-landing_page_id_67,67401446424.99146
-landing_page_id_68,18504663642.327007
-landing_page_id_69,67415859836.655045
-landing_page_id_70,49500287971.82706
-landing_page_id_71,67415859844.17578
-landing_page_id_72,4032119716.203588
-landing_page_id_73,67415859839.17637
-landing_page_id_74,58140964218.938034
-origin_113,33289719139.304695
-origin_direct_traffic,155143073967.2312
-origin_display,155143073972.4077
-origin_email,155143073969.3079
-origin_organic_search,155143073967.1942
-origin_other,36385579569.25337
-origin_paid_search,155143073967.04538
-origin_referral,155143073966.99954
-origin_social,155143073964.53854
-origin_unknown,155143073967.99084
-sdr_id_0,27063652078.47821
-sdr_id_1,27063652078.018772
-sdr_id_2,27063652079.25931
-sdr_id_3,26069805883.084846
-sdr_id_4,27063652077.589806
-sdr_id_5,27063652077.402668
-sdr_id_6,22328220709.089603
-sdr_id_7,27063652077.292786
-sdr_id_8,27063652076.96729
-sdr_id_9,33617783246.59368
-sdr_id_10,27063652077.440765
-sdr_id_11,27063652077.466797
-sdr_id_12,27063652076.388947
-sdr_id_13,27063652075.50235
-sdr_id_14,27063652077.168747
-sdr_id_15,27063652077.591377
-sdr_id_16,44979223947.505844
-sdr_id_17,27063652077.11728
-sr_id_0,9609759420.356647
-sr_id_1,9609759420.017578
-sr_id_2,9609759422.625725
-sr_id_3,928722309.740879
-sr_id_4,9609759419.90918
-sr_id_5,9609759421.290514
-sr_id_6,9609759422.617706
-sr_id_7,9609759422.657196
-sr_id_8,9609759420.653954
-sr_id_9,9609759422.126205
-sr_id_10,9609759420.926498
-sr_id_11,14330777366.65786
-sr_id_12,9609759422.802467
-sr_id_13,9609759423.542114
-sr_id_14,9609759421.054214
-sr_id_15,9609759420.796112
-sr_id_16,9609759419.062164
-sr_id_17,9609759419.804855
-business_segment_air_conditioning,45947763868.57392
-business_segment_audio_video_electronics,45947763870.20885
-business_segment_baby,28032192003.001137
-business_segment_bags_backpacks,45947763870.34268
-business_segment_bed_bath_table,45947763871.23566
-business_segment_books,16136116648.028343
-business_segment_car_accessories,45947763871.535545
-business_segment_computers,45947763872.26907
-business_segment_construction_tools_house_garden,45947763870.98747
-business_segment_fashion_accessories,45947763867.28659
-business_segment_food_drink,45947763871.146484
-business_segment_food_supplement,45947763871.053085
-business_segment_games_consoles,1871329300.4846063
-business_segment_gifts,45947763870.91277
-business_segment_handcrafted,45947763870.69295
-business_segment_health_beauty,45947763871.36731
-business_segment_home_appliances,45947763870.53926
-business_segment_home_decor,45947763871.772964
-business_segment_home_office_furniture,45947763873.77059
-business_segment_household_utilities,45947763871.6052
-business_segment_music_instruments,45947763869.61183
-business_segment_party,1112075446.5644593
-business_segment_pet,45947763870.91368
-business_segment_phone_mobile,1059277487.7445774
-business_segment_small_appliances,45947763872.15689
-business_segment_sports_leisure,45947763870.02242
-business_segment_stationery,45947763869.53246
-business_segment_toys,45947763871.62079
-business_segment_watches,45947763871.991196
-lead_type_172,28929020022.56772
-lead_type_industry,28929020022.175117
-lead_type_offline,28929020021.25315
-lead_type_online_beginner,28929020023.16356
-lead_type_online_big,28929020021.661697
-lead_type_online_medium,28929020021.099346
-lead_type_online_small,28929020023.339905
-lead_type_online_top,28929020022.31582
-lead_behaviour_profile_cat,241278365815.62872
-"lead_behaviour_profile_cat, wolf",241278365822.32065
-lead_behaviour_profile_eagle,241278365815.46393
-"lead_behaviour_profile_eagle, cat",974163475.7064545
-lead_behaviour_profile_shark,241278365815.21838
-lead_behaviour_profile_wolf,241278365814.7015
-business_type_287,91330660102.96494
-business_type_manufacturer,170029034280.12512
-business_type_reseller,170029034280.45963
-seller_city_americana,4366647975.204952
-seller_city_anapolis,51366997704.881996
-seller_city_angra dos reis,123028476443.22522
-seller_city_angra dos reis rj,25388442392.80294
-seller_city_apucarana,286276321.579262
-seller_city_arapongas,4366647970.333574
-seller_city_araquari,43479169924.995186
-seller_city_araraquara,4366647975.215675
-seller_city_atibaia,59196348170.978836
-seller_city_avare,4366647969.996059
-seller_city_barbacena,12190504981.083233
-seller_city_barueri,1001436665.2592467
-seller_city_bauru,483449109.04970753
-seller_city_belo horizont,5725066887.836523
-seller_city_belo horizonte,5725066889.127396
-seller_city_bento goncalves,774926717.4708374
-seller_city_botucatu,1139384789.8105943
-seller_city_brasilia,37999652055.921974
-seller_city_brusque,43479169923.20199
-seller_city_camboriu,266675748.50185326
-seller_city_campinas,4366647975.806389
-seller_city_campo bom,18849301567.178814
-seller_city_campo do meio,5725066888.192257
-seller_city_canoas,928828080.9758751
-seller_city_carapicuiba,4366647975.712547
-seller_city_carazinho,18849301567.23214
-seller_city_cascavel,4366647977.140038
-seller_city_catanduva,4366647971.632499
-seller_city_caxias do sul,18849301569.40024
-seller_city_claudio,5725066889.789417
-seller_city_conselheiro lafaiete,482863988.614519
-seller_city_contagem,5725066891.483789
-seller_city_cotia,4366647973.463083
-seller_city_curitiba,4366647976.800262
-seller_city_diadema,4366647974.153597
-seller_city_domingos martins,380053921.1639458
-seller_city_duque de caxias,78521900351.35109
-seller_city_embu das artes,4366647972.158775
-seller_city_estancia velha,18849301565.357418
-seller_city_extrema,5725066891.459629
-seller_city_floranopolis,52754065548.62875
-seller_city_florianopolis,486459674065.4281
-seller_city_formosa,51366997702.35012
-seller_city_fortaleza,65870235408.9387
-seller_city_franca,4366647975.722125
-seller_city_franco da rocha,4366647969.972382
-seller_city_garca,4366647972.166721
-seller_city_garulhos,31156316830.944607
-seller_city_gaspar,1107559238.790895
-seller_city_goiania,59703691519.303055
-seller_city_goioere,4366647972.449659
-seller_city_guaira,2243068453.1222076
-seller_city_guaratuba,4366647977.725798
-seller_city_guaruja,201693433245.03217
-seller_city_guarulhos,4366647974.268616
-seller_city_hortolandia,4366647975.737076
-seller_city_ibitinga,4366647971.444248
-seller_city_indaiatuba,22282219841.619434
-seller_city_ipira,2660455658.924323
-seller_city_irati,991466485.6563721
-seller_city_itajai,43479169921.02939
-seller_city_itapecerica da serra,23533471240.942337
-seller_city_itapeva,4366647973.66807
-seller_city_itaporanga,4366647970.423231
-seller_city_itaquaquecetuba,4366647974.3402405
-seller_city_itirapina,4366647969.24128
-seller_city_itu,4366647974.522283
-seller_city_ivoti,586680060.8384414
-seller_city_jacarei,4366647972.551867
-seller_city_jacarei / sao paulo,5995982286.110786
-seller_city_jaguariuna,4366647975.244827
-seller_city_jaragua,1291150842.2034504
-seller_city_jaragua do sul,639497635.2711719
-seller_city_jau,4366647975.20324
-seller_city_joao pessoa,31716453345.06579
-seller_city_joinville,43479169923.393166
-seller_city_juiz de fora,33625186103.824898
-seller_city_jundiai,4366647972.682619
-seller_city_lambari,1042242958.0667024
-seller_city_lauro de freitas,2660455660.128976
-seller_city_limeira,4366647973.6452465
-seller_city_loanda,4366647972.649771
-seller_city_londrina,4366647975.951008
-seller_city_marilia,5409731.958511001
-seller_city_maringa,4366647973.265076
-seller_city_maua,0.0
-seller_city_mogi das cruses,49255134354.7705
-seller_city_mogi guacu,4366647975.051601
-seller_city_monte alegre do sul,4366647971.300452
-seller_city_morrinhos,51366997699.4271
-seller_city_muriae,5725066890.765687
-seller_city_nhandeara,0.0
-seller_city_niteroi,78521900356.80289
-seller_city_nova friburgo,526001705585.0866
-seller_city_nova iguacu,76892566042.66414
-seller_city_novo hamburgo,18849301569.037785
-seller_city_orleans,0.0
-seller_city_osasco,4366647973.305931
-seller_city_palhoca,43479169924.18965
-seller_city_paracambi,78521900354.91414
-seller_city_paraiba do sul,67983418627.62046
-seller_city_pedreira,4366647972.520036
-seller_city_picarras,43479169923.49792
-seller_city_pinhais/pr,4366647972.832523
-seller_city_pinhalao,4366647976.964935
-seller_city_piracicaba,23533471240.73311
-seller_city_pitangueiras,0.0
-seller_city_pocos de caldas,23966661951.092514
-seller_city_pompeia,29240542119.581886
-seller_city_porto alegre,18849301567.019547
-seller_city_porto ferreira,4366647969.985589
-seller_city_praia grande,4366647970.145916
-seller_city_presidente prudente,4366647974.395176
+sdr_load,0.052817521394246725
+sr_load,0.0644463314547793
+landing_page_id_0,1268448095.380092
+landing_page_id_1,1268448096.5280743
+landing_page_id_2,1268448095.7762046
+landing_page_id_3,1268448094.7113512
+landing_page_id_4,6077857405.081107
+landing_page_id_5,3503871334.3878217
+landing_page_id_6,3636083503.5044127
+landing_page_id_7,1268448097.4171126
+landing_page_id_8,1834830489.04719
+landing_page_id_9,1268448094.3777323
+landing_page_id_10,11906077412.610346
+landing_page_id_11,1268448090.577243
+landing_page_id_12,1268448093.7751727
+landing_page_id_13,1268448095.7544029
+landing_page_id_14,1268448094.3885798
+landing_page_id_15,1268448104.0620866
+landing_page_id_16,1268448100.7915287
+landing_page_id_17,1746215025.9539206
+landing_page_id_18,1276412957.3360415
+landing_page_id_19,1268448093.861998
+landing_page_id_20,215628347.4059674
+landing_page_id_21,901018200.319638
+landing_page_id_22,1268448097.310016
+landing_page_id_23,2215088208.7341847
+landing_page_id_24,6741731.098882273
+landing_page_id_25,1479472934.2677805
+landing_page_id_26,1268448095.2268748
+landing_page_id_27,1268448093.7425907
+landing_page_id_28,1268448097.0561001
+landing_page_id_29,503525965.90819055
+landing_page_id_30,1268448098.3734956
+landing_page_id_31,1268448095.2876472
+landing_page_id_32,3359584934.7610035
+landing_page_id_33,1268448093.0983617
+landing_page_id_34,874643119.6101184
+landing_page_id_35,874643118.3754889
+landing_page_id_36,120329572.96702027
+landing_page_id_37,1268448095.319667
+landing_page_id_38,213924427.05630484
+landing_page_id_39,1572638637.5477014
+landing_page_id_40,1503078245.0730262
+landing_page_id_41,321406729.78215146
+landing_page_id_42,1268448094.3406668
+landing_page_id_43,1268448097.4751444
+landing_page_id_44,778955859.7767141
+landing_page_id_45,609512907.7606109
+landing_page_id_46,1268448095.14444
+landing_page_id_47,1022325801.9613092
+landing_page_id_48,439288484.2291184
+landing_page_id_49,1268448097.7820926
+landing_page_id_50,1268448095.0412815
+landing_page_id_51,947358545.3270204
+landing_page_id_52,791111531.6636931
+landing_page_id_53,1268448094.370783
+landing_page_id_54,247133798.61520252
+landing_page_id_55,1268448096.0591235
+landing_page_id_56,1268448094.7513192
+landing_page_id_57,1268448099.3477025
+landing_page_id_58,1268448094.9238126
+landing_page_id_59,609512904.9743693
+landing_page_id_60,1698352495.102814
+landing_page_id_61,1268448093.450568
+landing_page_id_62,1268448096.0941353
+landing_page_id_63,1268448093.1660995
+landing_page_id_64,1268448099.3327034
+landing_page_id_65,74536729.32833831
+landing_page_id_66,1268448099.422097
+landing_page_id_67,1268448095.2511516
+landing_page_id_68,711065802.6966462
+landing_page_id_69,1268448095.125276
+landing_page_id_70,5879309.509465602
+landing_page_id_71,131980042.43531035
+landing_page_id_72,220777397.29000992
+landing_page_id_73,1268448098.844228
+landing_page_id_74,665948445.4927384
+origin_113,170085993.37507415
+origin_direct_traffic,134104550.06900203
+origin_display,455194101.91348076
+origin_email,455194099.4278046
+origin_organic_search,134104551.32048143
+origin_other,100525596.5111977
+origin_paid_search,134104551.46431684
+origin_referral,134104548.69837674
+origin_social,134104552.53565538
+origin_unknown,134104552.16762948
+sdr_id_0,1635435167.5934646
+sdr_id_1,1635435169.5285544
+sdr_id_2,1635435166.4198568
+sdr_id_3,214931440.0041331
+sdr_id_4,1635435166.78582
+sdr_id_5,1635435165.869086
+sdr_id_6,43012621.91902267
+sdr_id_7,1635435168.0698452
+sdr_id_8,1635435169.3994122
+sdr_id_9,1635435170.290873
+sdr_id_10,1635435167.2820156
+sdr_id_11,1635435168.124137
+sdr_id_12,1635435168.0057673
+sdr_id_13,1635435168.8125944
+sdr_id_14,1635435167.7823043
+sdr_id_15,1635435168.2819977
+sdr_id_16,1643400027.2968748
+sdr_id_17,1635435167.4227378
+sr_id_0,860884185.8141395
+sr_id_1,860884186.8776624
+sr_id_2,860884184.1733338
+sr_id_3,728970634.3415353
+sr_id_4,860884185.4404657
+sr_id_5,860884184.1577616
+sr_id_6,860884184.1017517
+sr_id_7,860884186.0621212
+sr_id_8,860884185.5583612
+sr_id_9,860884185.1700258
+sr_id_10,860884184.7652559
+sr_id_11,15012788.86066849
+sr_id_12,860884183.9955616
+sr_id_13,860884185.6438887
+sr_id_14,860884184.8242228
+sr_id_15,860884183.4438257
+sr_id_16,860884187.3135488
+sr_id_17,860884185.0701449
+business_segment_air_conditioning,752548075.456506
+business_segment_audio_video_electronics,752548075.6967326
+business_segment_baby,744583217.2295351
+business_segment_bags_backpacks,752548075.9511464
+business_segment_bed_bath_table,752548075.1776705
+business_segment_books,1390543137.5963442
+business_segment_car_accessories,752548076.1892197
+business_segment_computers,752548076.6116531
+business_segment_construction_tools_house_garden,752548075.6249566
+business_segment_fashion_accessories,506425781.99453413
+business_segment_food_drink,752548077.3758109
+business_segment_food_supplement,752548075.9381393
+business_segment_games_consoles,962878312.7204651
+business_segment_gifts,752548074.8404809
+business_segment_handcrafted,133572903.14057583
+business_segment_health_beauty,752548076.6030278
+business_segment_home_appliances,752548079.3681215
+business_segment_home_decor,752548075.968836
+business_segment_home_office_furniture,752548076.8735523
+business_segment_household_utilities,752548075.8909705
+business_segment_music_instruments,752548077.1335187
+business_segment_party,295122618.6315019
+business_segment_pet,752548076.4838318
+business_segment_phone_mobile,93612889.55511604
+business_segment_small_appliances,752548077.0438894
+business_segment_sports_leisure,752548076.2807267
+business_segment_stationery,752548078.0258702
+business_segment_toys,752548076.4729527
+business_segment_watches,752548075.0867221
+lead_type_172,1298386340.5789404
+lead_type_industry,1298386343.7228708
+lead_type_offline,1298386340.655446
+lead_type_online_beginner,1298386343.812344
+lead_type_online_big,1298386343.056759
+lead_type_online_medium,1298386342.9093378
+lead_type_online_small,1298386343.9353473
+lead_type_online_top,1298386344.2289143
+lead_behaviour_profile_cat,2654661594.288188
+"lead_behaviour_profile_cat, wolf",2654661592.315696
+lead_behaviour_profile_eagle,2654661593.616686
+"lead_behaviour_profile_eagle, cat",939235205.8121377
+lead_behaviour_profile_shark,2654661594.5155406
+lead_behaviour_profile_wolf,2654661594.3791814
+business_type_287,1278248484.6220875
+business_type_manufacturer,1109845795.8057756
+business_type_reseller,1109845795.175384
+seller_city_americana,27529702.033248857
+seller_city_anapolis,1691781489.518449
+seller_city_angra dos reis,325837012.9214206
+seller_city_angra dos reis rj,148026601.82734853
+seller_city_apucarana,31596683.168576226
+seller_city_arapongas,31596683.091782764
+seller_city_araquari,21017401.44623806
+seller_city_araraquara,27529703.689901724
+seller_city_atibaia,27529702.231184773
+seller_city_avare,348619251.86584485
+seller_city_barbacena,315626117.8351407
+seller_city_barueri,27529704.13754801
+seller_city_bauru,27529703.03521318
+seller_city_belo horizont,307661255.8465192
+seller_city_belo horizonte,307661257.7961633
+seller_city_bento goncalves,1527168.1158008487
+seller_city_botucatu,27529703.287424687
+seller_city_brasilia,1669626685.0335329
+seller_city_brusque,53981135.89201599
+seller_city_camboriu,46016277.2326252
+seller_city_campinas,27529702.925926916
+seller_city_campo bom,62029110.511681676
+seller_city_campo do meio,12387576.777543694
+seller_city_canoas,1441687.6640577528
+seller_city_carapicuiba,27529702.901074335
+seller_city_carazinho,62029110.544824585
+seller_city_cascavel,31596685.229183704
+seller_city_catanduva,16060795.919318857
+seller_city_caxias do sul,62029112.641446486
+seller_city_claudio,307661259.4809956
+seller_city_conselheiro lafaiete,553783551.4965941
+seller_city_contagem,307661257.2125317
+seller_city_cotia,27529704.16780927
+seller_city_curitiba,31596686.048693895
+seller_city_diadema,27529703.441578597
+seller_city_domingos martins,1733783287.2210362
+seller_city_duque de caxias,1272477132.5841596
+seller_city_embu das artes,27529702.25434011
+seller_city_estancia velha,308151406.4545372
+seller_city_extrema,307661260.629845
+seller_city_floranopolis,656480784.7932434
+seller_city_florianopolis,53981134.14128332
+seller_city_formosa,1691781490.8537505
+seller_city_fortaleza,707197335.3732575
+seller_city_franca,273651997.9239278
+seller_city_franco da rocha,27529703.43743381
+seller_city_garca,27529707.88659239
+seller_city_garulhos,1456546738.5322187
+seller_city_gaspar,53981136.258953564
+seller_city_goiania,11482744017.579676
+seller_city_goioere,27529701.497419648
+seller_city_guaira,27529707.043729737
+seller_city_guaratuba,31596685.024600133
+seller_city_guaruja,11609699.99063741
+seller_city_guarulhos,27529704.08467871
+seller_city_hortolandia,27529700.69424305
+seller_city_ibitinga,27529704.580438375
+seller_city_indaiatuba,35494562.90338707
+seller_city_ipira,793984367.8515049
+seller_city_irati,13306532.04001987
+seller_city_itajai,53981138.62503497
+seller_city_itapecerica da serra,35494564.54518624
+seller_city_itapeva,12392924.03591156
+seller_city_itaporanga,14896666.671871185
+seller_city_itaquaquecetuba,27529703.389190614
+seller_city_itirapina,541344.5371055603
+seller_city_itu,27529705.99652517
+seller_city_ivoti,62029114.13213817
+seller_city_jacarei,10198929.661789417
+seller_city_jacarei / sao paulo,27529706.887549933
+seller_city_jaguariuna,27529703.685527876
+seller_city_jaragua,2169548422.3938017
+seller_city_jaragua do sul,53981136.20517276
+seller_city_jau,27529703.374690652
+seller_city_joao pessoa,1726138320.792987
+seller_city_joinville,53981134.54759711
+seller_city_juiz de fora,315626117.03898257
+seller_city_jundiai,3572677.3378516524
+seller_city_lambari,249721031.0675072
+seller_city_lauro de freitas,793984370.3259429
+seller_city_limeira,1800752.3977081736
+seller_city_loanda,31596685.064763755
+seller_city_londrina,31596685.38251257
+seller_city_marilia,27529701.7854937
+seller_city_maringa,31596684.083415702
+seller_city_maua,27529704.09874881
+seller_city_mogi das cruses,686464890.8147229
+seller_city_mogi guacu,27529704.445055142
+seller_city_monte alegre do sul,27529703.210774466
+seller_city_morrinhos,70.04067854250644
+seller_city_muriae,0.0
+seller_city_nhandeara,27529707.42655158
+seller_city_niteroi,1272477129.70808
+seller_city_nova friburgo,3536932182.492761
+seller_city_nova iguacu,0.0
+seller_city_novo hamburgo,62029110.11058214
+seller_city_orleans,53981134.78357517
+seller_city_osasco,27529703.401211005
+seller_city_palhoca,53981136.64527507
+seller_city_paracambi,0.0
+seller_city_paraiba do sul,317377694.43451357
+seller_city_pedreira,27529705.223871484
+seller_city_picarras,53981137.12123135
+seller_city_pinhais/pr,31596687.279752534
+seller_city_pinhalao,31596687.03496957
+seller_city_piracicaba,27529705.4583835
+seller_city_pitangueiras,27529699.422619984
+seller_city_pocos de caldas,2795617326.7673206
+seller_city_pompeia,27529706.000597134
+seller_city_porto alegre,62029111.845178835
+seller_city_porto ferreira,0.0
+seller_city_praia grande,27529702.684498012
+seller_city_presidente prudente,27529704.89638266
 seller_city_recife,0.0
-seller_city_resende,45064960207.54947
-seller_city_ribeirao pires,4366647972.350388
-seller_city_ribeirao preto,4366647973.152351
-seller_city_ribeirao preto / sao paulo,4366647972.615201
-seller_city_rio claro,0.0
-seller_city_rio de janeiro,78521900350.8987
-seller_city_rio do sul,43479169919.99677
-seller_city_rio negrinho,43479169923.202225
+seller_city_resende,445139253.10455036
+seller_city_ribeirao pires,27529701.877591416
+seller_city_ribeirao preto,27529703.595182464
+seller_city_ribeirao preto / sao paulo,0.0
+seller_city_rio claro,27529700.796762913
+seller_city_rio de janeiro,1272477127.051881
+seller_city_rio do sul,53981140.859016165
+seller_city_rio negrinho,53981137.044890046
 seller_city_rio verde,0.0
-seller_city_ronda alta,18849301573.887054
-seller_city_sabara,0.0
-seller_city_salto,0.0
-seller_city_salvador,2660455660.5955935
-seller_city_sando andre,2343537196.3413105
-seller_city_santa barbara d oeste,0.0
-seller_city_santa maria,18849301565.752876
-seller_city_santa rita do sapucai,5725066896.232393
-seller_city_santa rosa,18849301567.658268
-seller_city_santo andre,4366647974.729919
-seller_city_santos,4366647972.568436
-seller_city_sao bernardo do campo,4366647977.190708
-seller_city_sao caetano do sul,4366647974.189865
-seller_city_sao carlos,4366647973.0028715
-seller_city_sao joao da boa vista,4366647972.524874
-seller_city_sao joao de meriti,45933880070.66695
-seller_city_sao joao del rei,5725066886.645828
-seller_city_sao jose do rio preto,4366647971.78495
-seller_city_sao jose dos pinhais,126916726042.94968
-seller_city_sao jose dos pinhas,4366647975.171587
-seller_city_sao paulo,4366647973.482483
-seller_city_sao paulo - sp,4366647972.714752
-seller_city_sao pedro,114390846422.7454
-seller_city_sao pedro da aldeia,16438019832.988533
-seller_city_sao roque,4352234560.103394
-seller_city_sao sebastiao,4366647975.792135
-seller_city_sbc,4366647974.529395
-seller_city_sbc/sp,4366647975.886429
-seller_city_sete lagoas,116128287939.30757
-seller_city_sorocaba,4366647971.795187
-seller_city_sp / sp,4366647974.527291
-seller_city_tabatinga,0.0
-seller_city_taboao da serra,0.0
-seller_city_toledo,4366647976.127651
-seller_city_tres coracoes,33625186104.04123
-seller_city_triunfo,508807776881.8558
-seller_city_uberlandia,5725066891.023605
-seller_city_umuarama,36954668258.611786
-seller_city_uruacu,51366997698.88004
+seller_city_ronda alta,62029112.793348275
+seller_city_sabara,307661259.6375155
+seller_city_salto,27529700.271466102
+seller_city_salvador,793984369.9446249
+seller_city_sando andre,1361247961.6070142
+seller_city_santa barbara d oeste,27529702.461356804
+seller_city_santa maria,0.0
+seller_city_santa rita do sapucai,307661261.0993091
+seller_city_santa rosa,948150089.225034
+seller_city_santo andre,27529703.03264633
+seller_city_santos,27529703.144551724
+seller_city_sao bernardo do campo,27529702.260688834
+seller_city_sao caetano do sul,27529702.859273896
+seller_city_sao carlos,27529705.01691661
+seller_city_sao joao da boa vista,27529702.283263028
+seller_city_sao joao de meriti,794710195.5918353
+seller_city_sao joao del rei,0.0
+seller_city_sao jose do rio preto,27529704.75035245
+seller_city_sao jose dos pinhais,1293303049.6208787
+seller_city_sao jose dos pinhas,31596682.893436402
+seller_city_sao paulo,27529703.33056289
+seller_city_sao paulo - sp,27529702.494257644
+seller_city_sao pedro,0.0
+seller_city_sao pedro da aldeia,870614086.8447727
+seller_city_sao roque,27529702.753712922
+seller_city_sao sebastiao,0.0
+seller_city_sbc,27529702.453073017
+seller_city_sbc/sp,27529700.18758192
+seller_city_sete lagoas,3470714.0254167616
+seller_city_sorocaba,27529710.615790427
+seller_city_sp / sp,0.0
+seller_city_tabatinga,35494561.84232156
+seller_city_taboao da serra,27529700.532394513
+seller_city_toledo,31596684.50736785
+seller_city_tres coracoes,315626123.4552938
+seller_city_triunfo,0.0
+seller_city_uberlandia,307661256.16541934
+seller_city_umuarama,446170247.0395665
+seller_city_uruacu,1691781495.183248
 seller_city_varzea alegre,0.0
-seller_city_varzea paulista,4366647971.103441
+seller_city_varzea paulista,0.0
 seller_city_viana,0.0
-seller_city_vila velha,35798357300.608765
-seller_state_BA,68936258940.93521
-seller_state_CE,64331823332.82351
-seller_state_DF,33597062544.42237
-seller_state_ES,35798357300.608765
-seller_state_GO,20229716899.15103
-seller_state_MG,77321781491.01208
-seller_state_PB,33326130085.527122
+seller_city_vila velha,974824482.5854037
+seller_state_BA,2652040377.427077
+seller_state_CE,647690573.5957006
+seller_state_DF,1776398065.4858
+seller_state_ES,1720206318.954591
+seller_state_GO,5137806240.596264
+seller_state_MG,3753686006.35809
+seller_state_PB,1719886427.2184327
 seller_state_PE,0.0
-seller_state_PR,67230066626.36959
-seller_state_RJ,150118614952.85764
-seller_state_RS,90446016169.62881
-seller_state_SC,115075884524.47829
-seller_state_SP,67230066626.85126
+seller_state_PR,3414428062.658758
+seller_state_RJ,2173547620.0360403
+seller_state_RS,3508053859.361069
+seller_state_SC,3392043611.7708845
+seller_state_SP,3473554451.1224794
